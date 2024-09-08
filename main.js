@@ -3,4 +3,10 @@ for (let index = 0; index < 10; index++) {
   
 }
 
+function hello(n){
+    console.log(n)
+}
+
 console.log("I am in main file")
+
+hello("java")
